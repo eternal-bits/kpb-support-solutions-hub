@@ -60,7 +60,7 @@ export const About = () => {
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg text-center">
               <Zap className="w-12 h-12 text-primary mx-auto mb-4" />
-              <div className="text-2xl font-bold text-gray-900">< 2hr</div>
+              <div className="text-2xl font-bold text-gray-900">&lt; 2hr</div>
               <div className="text-gray-600">Response Time</div>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg text-center">
